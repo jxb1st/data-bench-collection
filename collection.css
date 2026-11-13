@@ -44,3 +44,12 @@ dl.kv ol.seq { margin: 0; }
 @media (max-width: 48rem) { .sample { grid-template-columns: 1fr; } }
 
 @media (min-width: 62rem) { .samples { width: calc(100% + var(--margin) + var(--gap)); } }
+
+/* per-dataset pages: task contents with counts, grouped example sections, quoted examples */
+.contents .n { color: var(--ink-3); font-size: 0.8125rem; margin-left: 0.3rem; }
+.group h3 { font-size: 1.1875rem; margin: 2.5rem 0 0.25rem; padding-top: 1rem; border-top: 1px solid var(--ink); }
+.group .samples { margin-top: 0; }
+.group .sample:first-child { border-top: 0; }
+ul.quotes { margin: 0 0 1.25rem; padding-left: 1.2rem; }
+ul.quotes li { margin: 0.2rem 0; color: var(--accent); }
+.exp-header .note a { color: var(--ink-2); }
