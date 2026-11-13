@@ -20,7 +20,8 @@
    "duration_group": 15,
    "position": [
     102
-   ]
+   ],
+   "clip": "longvideobench/e2o.mp4"
   },
   {
    "id": "Ge5SjsgaA4o_0",
@@ -43,7 +44,8 @@
    "position": [
     71,
     90
-   ]
+   ],
+   "clip": "longvideobench/e3e.mp4"
   },
   {
    "id": "-if_Wg43vTk_0",
@@ -66,7 +68,8 @@
    "duration_group": 15,
    "position": [
     27
-   ]
+   ],
+   "clip": "longvideobench/o2e.mp4"
   },
   {
    "id": "-QSAotqKqX8_0",
@@ -89,7 +92,8 @@
    "duration_group": 15,
    "position": [
     88
-   ]
+   ],
+   "clip": "longvideobench/o3o.mp4"
   },
   {
    "id": "5Hn1UhlLphk_0",
@@ -112,7 +116,8 @@
    "duration_group": 15,
    "position": [
     141
-   ]
+   ],
+   "clip": "longvideobench/s2a.mp4"
   },
   {
    "id": "kbRtl58u_kk_0",
@@ -134,7 +139,8 @@
    "duration_group": 15,
    "position": [
     44
-   ]
+   ],
+   "clip": "longvideobench/s2e.mp4"
   },
   {
    "id": "VPcdtoldWCA_0",
@@ -157,7 +163,8 @@
    "duration_group": 15,
    "position": [
     94
-   ]
+   ],
+   "clip": "longvideobench/s2o.mp4"
   },
   {
    "id": "9yQV0t5meo4_0",
@@ -180,7 +187,8 @@
    "position": [
     36,
     149
-   ]
+   ],
+   "clip": "longvideobench/saa.mp4"
   },
   {
    "id": "UM0VOrAtnPA_0",
@@ -203,7 +211,8 @@
    "position": [
     38,
     96
-   ]
+   ],
+   "clip": "longvideobench/sos.mp4"
   },
   {
    "id": "@healthfood-7115052132578921774_0",
@@ -228,7 +237,8 @@
     35,
     86,
     152
-   ]
+   ],
+   "clip": "longvideobench/sss.mp4"
   },
   {
    "id": "GZFL58_pXPg_0",
@@ -250,7 +260,8 @@
    "duration_group": 15,
    "position": [
     78
-   ]
+   ],
+   "clip": "longvideobench/t2a.mp4"
   },
   {
    "id": "2F7d7aUCmUU_0",
@@ -272,7 +283,8 @@
    "duration_group": 15,
    "position": [
     16
-   ]
+   ],
+   "clip": "longvideobench/t2e.mp4"
   },
   {
    "id": "u-vYvqxHejY_0",
@@ -294,7 +306,8 @@
    "duration_group": 15,
    "position": [
     131
-   ]
+   ],
+   "clip": "longvideobench/t2o.mp4"
   },
   {
    "id": "14ot4DrXdds_0",
@@ -318,7 +331,8 @@
    "position": [
     20,
     58
-   ]
+   ],
+   "clip": "longvideobench/t3e.mp4"
   },
   {
    "id": "CFm3bc9gqYE_0",
@@ -341,7 +355,8 @@
    "position": [
     25,
     57
-   ]
+   ],
+   "clip": "longvideobench/t3o.mp4"
   },
   {
    "id": "18rZLZqg6C8_0",
@@ -364,7 +379,8 @@
    "position": [
     71,
     86
-   ]
+   ],
+   "clip": "longvideobench/taa.mp4"
   },
   {
    "id": "3Qv2K_0GEE0_0",
@@ -387,7 +403,8 @@
    "position": [
     34,
     181
-   ]
+   ],
+   "clip": "longvideobench/tos.mp4"
   }
  ],
  "vidchapters": [
